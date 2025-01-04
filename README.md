@@ -9,6 +9,10 @@ This project is an interactive UI where blocks are dynamically created, draggabl
 - Responsive Lines: The connecting lines adjust dynamically as blocks are dragged.
 - This project demonstrates creativity, state management, and precise DOM manipulation, styled using Tailwind CSS.
 
+## This is my Application screenshot:
+
+> ![Screenshot](./src/assets/img/Screenshot.png)
+
 ## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
